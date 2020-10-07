@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">App_fitness</string>
+    <string name="descripcion">Descripcion</string>
+
+    <string name="txt_usuario">Ingrese Usuario</string>
+    <string name="txt_pass">Ingrese Contraseña</string>
+
+    <string name="button">Iniciar</string>
+
+    <string name="textView1">Gestionar Clientes</string>
+    <string name="textView2">Gestionar Insumos</string>
+    <string name="textView3">Localización</string>
+    <string name="textView4">Información</string>
+    <string name="title_activity_maps_act">Map</string>
+</resources>
